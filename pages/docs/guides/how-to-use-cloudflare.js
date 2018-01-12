@@ -79,7 +79,7 @@ For the next sub-domain, you only need to follow Step 2 and 3. Setup (Step 1) is
 
 In the above case, Cloudflare only act as a DNS server. It simply forwards the traffic to ${<Now color="#000"/>} via DNS. With this mode, Cloudflare accept the traffic and act as a proxy server. This allow Cloudflare to do interesting things like OneClick SSL, DDOS protection, CDN features and more.
 
-To get started, we need to apply all of the above steps. Then, go though the following steps:
+To get started, we need to apply all of the above steps. Then, go through the following steps:
 
 ### 1. Enable the Proxy Mode
 

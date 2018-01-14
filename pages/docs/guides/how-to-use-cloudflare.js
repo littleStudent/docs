@@ -95,7 +95,7 @@ ${
 
 ### 2. Use Full (Strict) Encryption
 
-With this setup, Cloudflare communicates with ${<Now color="#000"/>} using SSL. This is very important since ${<Now color="#000"/>} usually serves pages via HTTPS only.
+With this setup, Cloudflare communicates with ${<Now color="#000"/>} using SSL. This is very important since ${<Now color="#000"/>} serves pages via HTTPS only.
 
 For that, go to the Crypto settings page and select the Full (Strict) mode.
 
